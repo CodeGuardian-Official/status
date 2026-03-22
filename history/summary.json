@@ -5,20 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.scoppiato.it.ico",
     "slug": "scoppiato",
     "status": "up",
-    "uptime": "68.89%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "68.89%",
-    "uptimeMonth": "68.89%",
-    "uptimeYear": "68.89%",
-    "time": 1177,
-    "timeDay": 1477,
-    "timeWeek": 1177,
-    "timeMonth": 1177,
-    "timeYear": 1177,
-    "dailyMinutesDown": {
-      "2026-03-19": 884,
-      "2026-03-18": 428
-    }
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1197,
+    "timeDay": 1395,
+    "timeWeek": 1197,
+    "timeMonth": 1197,
+    "timeYear": 1197,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Notepaddo",
@@ -26,20 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/notepaddo.scoppiato.it.ico",
     "slug": "notepaddo",
     "status": "up",
-    "uptime": "68.89%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "68.89%",
-    "uptimeMonth": "68.89%",
-    "uptimeYear": "68.89%",
-    "time": 731,
-    "timeDay": 708,
-    "timeWeek": 731,
-    "timeMonth": 731,
-    "timeYear": 731,
-    "dailyMinutesDown": {
-      "2026-03-19": 884,
-      "2026-03-18": 428
-    }
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 729,
+    "timeDay": 714,
+    "timeWeek": 729,
+    "timeMonth": 729,
+    "timeYear": 729,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Hacker News",
@@ -52,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 287,
-    "timeDay": 328,
-    "timeWeek": 287,
-    "timeMonth": 287,
-    "timeYear": 287,
+    "time": 305,
+    "timeDay": 516,
+    "timeWeek": 305,
+    "timeMonth": 305,
+    "timeYear": 305,
     "dailyMinutesDown": {}
   },
   {
