@@ -65,18 +65,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/panel.scoppiato.it.ico",
     "slug": "pterodacyl-scoppiato",
     "status": "down",
-    "uptime": "98.67%",
-    "uptimeDay": "94.56%",
-    "uptimeWeek": "98.67%",
-    "uptimeMonth": "98.67%",
-    "uptimeYear": "98.67%",
+    "uptime": "98.13%",
+    "uptimeDay": "92.35%",
+    "uptimeWeek": "98.13%",
+    "uptimeMonth": "98.13%",
+    "uptimeYear": "98.13%",
     "time": 1420,
     "timeDay": 2329,
     "timeWeek": 1420,
     "timeMonth": 1420,
     "timeYear": 1420,
     "dailyMinutesDown": {
-      "2026-03-27": 0,
+      "2026-03-27": 32,
       "2026-03-26": 78
     }
   }
