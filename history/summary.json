@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.scoppiato.it.ico",
     "slug": "scoppiato",
     "status": "down",
-    "uptime": "90.92%",
-    "uptimeDay": "99.49%",
-    "uptimeWeek": "38.41%",
-    "uptimeMonth": "85.12%",
-    "uptimeYear": "90.92%",
+    "uptime": "90.72%",
+    "uptimeDay": "83.58%",
+    "uptimeWeek": "36.14%",
+    "uptimeMonth": "84.60%",
+    "uptimeYear": "90.72%",
     "time": 3052,
     "timeDay": 19751,
     "timeWeek": 4995,
@@ -31,7 +31,7 @@
       "2026-05-21": 1440,
       "2026-05-20": 259,
       "2026-05-25": 297,
-      "2026-05-27": 7
+      "2026-05-27": 236
     }
   },
   {
@@ -40,11 +40,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/notepaddo.scoppiato.it.ico",
     "slug": "notepaddo",
     "status": "down",
-    "uptime": "90.93%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "38.43%",
-    "uptimeMonth": "85.13%",
-    "uptimeYear": "90.93%",
+    "uptime": "90.72%",
+    "uptimeDay": "83.66%",
+    "uptimeWeek": "36.16%",
+    "uptimeMonth": "84.61%",
+    "uptimeYear": "90.72%",
     "time": 2363,
     "timeDay": 19397,
     "timeWeek": 4256,
@@ -66,7 +66,7 @@
       "2026-05-21": 1440,
       "2026-05-20": 258,
       "2026-05-25": 297,
-      "2026-05-27": 6
+      "2026-05-27": 235
     }
   },
   {
@@ -75,11 +75,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/beatnova.scoppiato.it.ico",
     "slug": "beat-nova",
     "status": "down",
-    "uptime": "90.26%",
-    "uptimeDay": "99.66%",
-    "uptimeWeek": "38.46%",
-    "uptimeMonth": "85.14%",
-    "uptimeYear": "90.26%",
+    "uptime": "90.04%",
+    "uptimeDay": "83.74%",
+    "uptimeWeek": "36.19%",
+    "uptimeMonth": "84.61%",
+    "uptimeYear": "90.04%",
     "time": 2765,
     "timeDay": 19598,
     "timeWeek": 4611,
@@ -101,7 +101,7 @@
       "2026-05-21": 1440,
       "2026-05-20": 256,
       "2026-05-25": 297,
-      "2026-05-27": 5
+      "2026-05-27": 234
     }
   },
   {
@@ -110,11 +110,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/panel.scoppiato.it.ico",
     "slug": "pterodacyl-scoppiato",
     "status": "down",
-    "uptime": "6.38%",
+    "uptime": "6.36%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "6.38%",
+    "uptimeYear": "6.36%",
     "time": 9894,
     "timeDay": 0,
     "timeWeek": 0,
@@ -128,7 +128,7 @@
       "2026-03-28": 1440,
       "2026-03-27": 1312,
       "2026-04-01": 1349,
-      "2026-05-27": 11,
+      "2026-05-27": 244,
       "2026-05-26": 1440,
       "2026-05-25": 1440,
       "2026-05-24": 1440,
